@@ -146,3 +146,12 @@ payload:
   # GGPO
   # 格斗游戏回滚网络协议，多款街机对战游戏使用
   - "+.ggpo.net"
+
+  # EOS 登录凭证验证走此域名，缺少会导致登录失败
+  - "+.epicgames.com"
+
+  # Unity Relay / Lobby 新服务端点，unity3d.com 不覆盖
+  - "+.services.unity.com"
+
+  # Vivox 语音，PUBG / Fortnite 等大量游戏集成
+  - "+.vivox.com"
