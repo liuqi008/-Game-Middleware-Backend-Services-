@@ -1,0 +1,105 @@
+# ======================================================
+# 游戏中间件（Game Middleware）/ 后端服务（Backend Services）
+# ======================================================
+
+# ── 多人网络底层（Multiplayer Networking） ──
+# Photon Engine（Exit Games）- 多人网络引擎
+- "DOMAIN-SUFFIX,photonengine.io,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,photonengine.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,exitgames.com,🎮 Game-Proxy"
+
+# Mirror / Fish-Net 中继 - 开源网络库配套中继
+- "DOMAIN-SUFFIX,edgegap.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,edgegap.net,🎮 Game-Proxy"
+
+# SmartFoxServer - Java 多人游戏服务器框架
+- "DOMAIN-SUFFIX,smartfoxserver.com,🎮 Game-Proxy"
+
+# Colyseus - Node.js 多人游戏框架
+- "DOMAIN-SUFFIX,colyseus.io,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,colyseus.dev,🎮 Game-Proxy"
+
+# ── 游戏后端即服务（Game BaaS） ──
+# Microsoft Azure PlayFab
+- "DOMAIN-SUFFIX,playfab.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,playfabapi.com,🎮 Game-Proxy"
+
+# Heroic Labs - Nakama 开源后端 / Satori LiveOps
+- "DOMAIN-SUFFIX,heroiclabs.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,heroic.cloud,🎮 Game-Proxy"
+
+# AccelByte - 跨平台游戏后端平台
+- "DOMAIN-SUFFIX,accelbyte.io,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,accelbyte.net,🎮 Game-Proxy"
+
+# Beamable - Unity/Unreal 游戏后端
+- "DOMAIN-SUFFIX,beamable.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,beamable.net,🎮 Game-Proxy"
+
+# LootLocker - 玩家账户 / 经济系统后端
+- "DOMAIN-SUFFIX,lootlocker.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,lootlocker.io,🎮 Game-Proxy"
+
+# brainCloud - 独立游戏后端平台
+- "DOMAIN-SUFFIX,braincloudservers.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,getbraincloud.com,🎮 Game-Proxy"
+
+# Pragma Engine - 企业级多人游戏后端
+- "DOMAIN-SUFFIX,pragma.gg,🎮 Game-Proxy"
+
+# Amazon GameSparks（已停服，历史兼容保留）
+- "DOMAIN-SUFFIX,gamesparks.net,🎮 Game-Proxy"
+
+# ── 游戏服务器托管编排（Server Orchestration） ──
+# Gameye - 游戏服务器编排平台
+- "DOMAIN-SUFFIX,gameye.com,🎮 Game-Proxy"
+
+# ── 游戏引擎配套服务（Game Engine Services） ──
+# Unity Gaming Services（含 Vivox 语音 / Relay / Matchmaking）
+- "DOMAIN-SUFFIX,unity3d.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,unity.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,vivox.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,services.unity.com,🎮 Game-Proxy"
+
+# Epic Online Services（EOS）
+- "DOMAIN-SUFFIX,epicgames.dev,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,on.epicgames.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,eoshelp.epicgames.com,🎮 Game-Proxy"
+
+# ── 游戏平台 SDK（Platform SDK） ──
+# Valve Steam
+- "DOMAIN-SUFFIX,steamgames.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,steampowered.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,steamcontent.com,🎮 Game-Proxy"
+
+# GOG Galaxy
+- "DOMAIN-SUFFIX,gog.com,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,gogalaxy.com,🎮 Game-Proxy"
+
+# ── 游戏分析 / LiveOps（Analytics & LiveOps） ──
+# GameAnalytics - 游戏行为数据分析
+- "DOMAIN-SUFFIX,gameanalytics.com,🎮 Game-Proxy"
+
+# deltaDNA（现已并入 Unity）
+- "DOMAIN-SUFFIX,deltadna.net,🎮 Game-Proxy"
+
+# ── 防作弊（Anti-Cheat） ──
+# Easy Anti-Cheat（Epic 旗下）
+- "DOMAIN-SUFFIX,easyanticheat.net,🎮 Game-Proxy"
+
+# BattlEye
+- "DOMAIN-SUFFIX,battleye.com,🎮 Game-Proxy"
+
+# Valve VAC（通过 Steam 域名覆盖）
+
+# ── 对战 / 竞技匹配（Matchmaking / Tournament） ──
+# GGPO - 格斗游戏回滚网络
+- "DOMAIN-SUFFIX,ggpo.net,🎮 Game-Proxy"
+
+# ── 游戏服务器基础设施（Infrastructure） ──
+# i3D.net - 全球专用服务器
+- "DOMAIN-SUFFIX,i3d.net,🎮 Game-Proxy"
+
+# Multiplay（Unity 旗下）
+- "DOMAIN-SUFFIX,multiplay.co.uk,🎮 Game-Proxy"
+- "DOMAIN-SUFFIX,multiplay.com,🎮 Game-Proxy"
