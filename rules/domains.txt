@@ -1,0 +1,14 @@
+# FullCone Bypass Domains
+# Updated: 2026-04-23
+# Format: one domain per line, # for comments
+# 
+# These domains will be routed directly (not through mihomo) for UDP,
+# to preserve ISP-native FullCone NAT for gaming and P2P.
+
+# === STUN servers (for NAT type detection) ===
+stun.miwifi.com
+stun.qq.com
+stun.bilibili.com
+
+# === CN games with overseas CDN ===
+# (add as you discover them)
